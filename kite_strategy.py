@@ -26,6 +26,8 @@ except:
         "trade_watchlist":7,
         "email":"kodakandlasrikar99@gmail.com"
         }
+
+        
 get_optimized_supertrend=False
 #period=74
 #multiplier=12.3
