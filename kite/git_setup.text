@@ -1,0 +1,29 @@
+##############################Configure SSH Key and Deploy PUB Key#########################################
+#Set SSH URL Here
+git remote set-url origin git_url_here
+
+#Generate ssh Key
+ssh-keygen -t rsa -C "your.mail@gmail.com
+
+#Add Key to Key Agent 
+eval $(ssh-agent -s)
+ssh-add ~/.ssh/id_rsa
+
+#Copy key to clipboard for pasting on githum deployed section
+sudo apt-get install xclip
+xclip -sel clip < ~/.ssh/id_rsa.pub
+
+#Confirm SSH key authentication  
+ssh -T git@github.com
+git config --global credential.helper cache
+
+################################ set default editor, Diff tool configuration and use #########################
+#Set VIM as default editor
+git config --global core.editor "vim"
+
+#Configure difftool 
+git config --global diff.tool vimdiff
+
+#Use Git Diff Tool
+git difftool file_name
+
