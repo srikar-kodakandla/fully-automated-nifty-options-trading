@@ -20,25 +20,23 @@ try:
 except:
     creds = {	
         "trading":True,  
-        "usr":"KI3644",
-        "pswd":"Nanna143!",
-        "pin":"825556",
+        "usr":"T4546k3",    #give kite userid
+        "pswd":"password", #give kite password
+        "pin":"854646",  #give kite pin
         "trade_watchlist":7,
-        "email":"kodakandlasrikar99@gmail.com"
+        "email":"kodakandlasrikar99@gmail.com" #give your mail address
         }
-
-        
 get_optimized_supertrend=False
 #period=74
 #multiplier=12.3
-timeframe='5min'
-period=152
-multiplier=14.2
-risk=500
-new_position_risk=150
+timeframe='5min'    #time period of chart
+period=152        #period of supertrend
+multiplier=14.2   #multiplier of supertrend
+risk=500   #risk (this paramater goes from 50 to 1000 where 50 is lowest risk with low profits and losses where 1000 is highest risk with highest profits and losses, The number should be multiplier of 50 like 50,100,150,200 like that ...)
+new_position_risk=150  #To continue the strategy after expiry , the risk to be taken paramater
 new_position_halfrisk_or_not=True
-target_price=0.95
-qty=50
+target_price=0.95  #target price that you should exit when price hits target
+qty=50 #lot size
 qty_fixed_or_not=True
 new_basket_name='algo'
 how_refresh_every=12
