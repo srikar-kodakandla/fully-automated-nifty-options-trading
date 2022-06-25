@@ -1,13 +1,8 @@
 import sys
 from sys import argv
-'''creds = {	
-        "trading":True,  
-        "usr":"KI3644",
-        "pswd":"Nanna143!",
-        "pin":"825556",
-        "trade_watchlist":7,
-        "email":"kodakandlasrikar99@gmail.com"
-        }'''
+
+
+
 try:
     creds = {	
             "trading":True,
