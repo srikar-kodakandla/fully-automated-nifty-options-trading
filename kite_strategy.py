@@ -1,10 +1,7 @@
 import sys
 from sys import argv
-
-
-
 try:
-    creds = {	
+    creds = {   
             "trading":True,
             "usr":argv[1],
             "pswd":argv[2],
@@ -13,7 +10,7 @@ try:
             "email":None
             }
 except:
-    creds = {	
+    creds = {   
         "trading":True,  
         "usr":"T4546k3",    #give kite userid
         "pswd":"password", #give kite password
@@ -774,4 +771,3 @@ while True:
         m.message("There is some error in whole code , please verify ....")
         m.message(error)
         sleep(5)
-
