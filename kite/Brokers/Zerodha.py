@@ -1,10 +1,5 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Created on Thu Apr  2 17:41:46 2020
-@author: harpal
-shiftbybit@gmail.com
-"""
 
 import time
 import datetime as dt
