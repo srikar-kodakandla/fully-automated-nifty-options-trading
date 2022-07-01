@@ -1,10 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Created on Sun Apr 12 14:15:45 2020
-@author: harpal
-@email : hpl.nain@gmail.com
-"""
+
 from Brokers.Zerodha import ZC, ZerodhaConnect
 from Loggers.StockDataLogger import StockLogger
 from signal import signal, SIGINT
