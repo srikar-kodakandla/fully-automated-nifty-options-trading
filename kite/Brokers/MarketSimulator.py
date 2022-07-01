@@ -1,10 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Created on Sun Apr 19 15:38:30 2020
 
-@author: harpal
-"""
 import os
 import time
 import threading
