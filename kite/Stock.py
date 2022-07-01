@@ -1,10 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Created on Sat Apr 25 15:50:26 2020
 
-@author: harpal
-"""
 
 import json
 import time
