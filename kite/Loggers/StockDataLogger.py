@@ -1,10 +1,5 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Created on Wed Apr 15 23:49:28 2020
-
-@author: harpal
-"""
 
 import os
 import threading
