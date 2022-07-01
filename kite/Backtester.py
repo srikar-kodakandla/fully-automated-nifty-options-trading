@@ -1,10 +1,5 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Created on Wed Apr 22 20:43:15 2020
-
-@author: harpal
-"""
 
 from whatappAtom import WhatsApp
 from MarketSimulator import TickSimulator
