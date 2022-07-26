@@ -745,7 +745,6 @@ while True:
                 if refresh_every(count):
                     refresh()  
 
-                #sleep(298)     
                 if ((0 <= time.localtime().tm_wday <= 4) and (datetime.datetime.strptime(
                                 datetime.datetime.strftime(datetime.datetime.now(), "%d-%m-%Y") + " 15:29:55",
                                 "%d-%m-%Y %H:%M:%S") <= datetime.datetime.now() <= datetime.datetime.strptime(
