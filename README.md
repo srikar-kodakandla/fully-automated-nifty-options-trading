@@ -1,6 +1,7 @@
-## My Future Goal
+## Seeking Investors for My AI-Driven, Deep Learning Trading Project
 
-I want to make a top-level deep learning (Artificial Intelligence) model that will change how we do options selling. If this works, I also want to try it with stocks, other options, foreign markets, and more. For this, I need investors who can support me. Your investment will let me work on this project full time.
+I want to make a Deep Learning (Artificial Intelligence) model that will change how we do options selling. If this works, I also want to try it with stocks, other options, foreign markets, and more. For this, I need investors who can support me. Your investment will let me work on this project full time.
+As the sole developer of this system, I will have the flexibility to dedicate my full efforts towards this project. With proper funding and support, I aim to create an innovative trading platform and grow it into a successful business.
 
 ## Want To Join?
 
@@ -14,7 +15,7 @@ Let's work together to change trading.
 
 ## About Me
 
-I've been doing trading for 4 years and have learnt a lot. I've also been freelancing, where clients give me their trading strategies to code. I have also worked with deep learning for 1 year. I tried to make a deep learning model for trading, but I couldn't give it enough time because of my job.
+I have extensive experience building algorithmic trading strategies and systems, including 4+ years of active trading experience across stocks, options, currencies, and commodities. In addition to trading system development, I have a strong background in cutting-edge deep learning techniques.
 
 ## About this project : fully automated nifty options trading
 
