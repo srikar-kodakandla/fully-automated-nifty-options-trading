@@ -17,7 +17,7 @@ Let's work together to change trading.
 
 I have extensive experience building algorithmic trading strategies and systems, including 4+ years of active trading experience across stocks, options, currencies, and commodities. In addition to trading system development, I have a strong background in cutting-edge deep learning techniques.
 
-## About this project : fully automated nifty options trading
+## About this project : Fully automated nifty options trading
 
 It is fully automated algo trading , It trades for you in Nifty options using Zerodha kite . You don't need to pay 4000 indian rupees monthly for kite api because this program uses selenium to access zerodha kite website
 
