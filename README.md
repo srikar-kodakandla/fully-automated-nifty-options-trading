@@ -1,3 +1,21 @@
+## About Me
+
+I've been doing trading for 4 years and have learnt a lot. I've also been freelancing, where clients give me their trading strategies to code. I have also worked with deep learning for 1 year. I tried to make a deep learning model for trading, but I couldn't give it enough time because of my job.
+
+## The Project
+
+I want to make a top-level deep learning model that will change how we do options selling. If this works, I also want to try it with stocks, other options, foreign markets, and more. For this, I need investors who can support me. Your investment will let me work on this project full time.
+
+## Want To Join?
+
+If you're interested in this project, I would love to talk more. You can contact me at:
+
+- Email: kodakandlasrikar99@gmail.com
+- Phone no: (+91) 9176462946
+- LinkedIn: [https://www.linkedin.com/in/srikar-kodakandla/]
+
+Let's work together to change trading.
+
 # fully automated nifty options trading
 
 It is fully automated algo trading , It trades for you in Nifty options using Zerodha kite . You don't need to pay 4000 indian rupees monthly for kite api because this program uses selenium to access zerodha kite website
