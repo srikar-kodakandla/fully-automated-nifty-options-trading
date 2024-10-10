@@ -22,24 +22,13 @@ you can use crontab to schedule to trade everyday , write the below code in "cro
 
 The program uses selenium to make trades in zerodha kite and it uses fyers account to get past data . Fyers provides free api for past data and trading.
 
-This code is kept publicly in github for educational purpose only .I am not responsible with your profit and losses.
+This code is kept publicly in github for educational purpose only. I am not responsible with your profit and losses.
 
-
-## Seeking Investors for My AI-Driven, Deep Learning Trading Project
-
-I want to make a Deep Learning (Artificial Intelligence) model that will change how we do options selling. If this works, I also want to try it with stocks, other options, foreign markets, and more. For this, I need investors who can support me. Your investment will let me work on this project full time.
-As the sole developer of this system, I will have the flexibility to dedicate my full efforts towards this project. With proper funding and support, I aim to create an innovative trading platform and grow it into a successful business.
-
-## Want To Join?
-
-If you're interested in this project, I would love to talk more. You can contact me at:
-
-- Email: kodakandlasrikar99@gmail.com
-- Phone no: (+91) 9176462946
-- LinkedIn: [https://www.linkedin.com/in/srikar-kodakandla/]
-
-Let's work together to change trading.
 
 ## About Me
 
 I have extensive experience building algorithmic trading strategies and systems, including 4+ years of active trading experience across stocks, options, currencies, and commodities. In addition to trading system development, I have a strong background in cutting-edge deep learning techniques.
+- Email: kodakandlasrikar99@gmail.com
+- Phone no: (+91) 9176462946 (Please use WhatApp messages only; no calls) 
+- LinkedIn: [https://www.linkedin.com/in/srikar-kodakandla/]
+
